@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">UwbNearBy</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="status_searching">Looking for a device to connect to</string>
+    <string name="error_missing_permissions">Cannot start without required permissions</string>
+
+    <string name="toast_connected">Connected to %s</string>
+    <string name="toast_disconnected">Disconnected from %s</string>
+
+    <string name="status_unknown">Please wait</string>
+    <string name="status_connected"> </string>
+</resources>
